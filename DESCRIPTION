@@ -1,0 +1,11 @@
+Package: ExerciseFour
+Type: Package
+Title: Einfache Berechnungen
+Version: 0.1.0
+Author: Finn Liebig
+Maintainer: Finn Liebig <finn.liebig.studium@outlook.de>
+Description: Mithilfe dieses Packages lassen sich simple mathematische Kalkulationen tätigen, nämlich: Addition, Multiplikation und Subtraktion.
+License: GPL-2
+Encoding: UTF-8
+LazyData: false
+RoxygenNote: 7.3.2
